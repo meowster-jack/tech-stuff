@@ -10,7 +10,11 @@ https://github.com/Purple-Jack/tech-stuff/blob/main/App%20recommendations.md#app
 # App Recommendations 
 # Backing Up Data 
 https://github.com/Purple-Jack/tech-stuff/blob/main/Backing%20up%20data.md#backing-up-data
+
+
 # Bypass Paywalls
+
+
 # Command Line Interface 
 # Disk Encryption 
 # Change Icons in Windows 
