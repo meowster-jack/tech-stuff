@@ -50,7 +50,7 @@ https://github.com/Purple-Jack/tech-stuff/blob/main/Tech%20tips.md#tech-tips
 https://github.com/Purple-Jack/tech-stuff/blob/main/Tor%20Browser.md#tor-browser
 ## Video Conferencin: Jitsi A cool alternative to gmeet and zoom 
 https://github.com/Purple-Jack/tech-stuff/blob/main/Video%20Conferencing%20A%20really%20cool%20FOSS%20alternative%20to%20zoom%20%26%20gmeet.md#video-conferencing-a-really-cool-foss-alternative-to-zoom--gmeet
-## Virtualization Try out new Operating systems without messing with your hard disk partition 
+## Virtualization: Try out new Operating systems without messing with your hard disk partition 
 https://github.com/Purple-Jack/tech-stuff/blob/main/Virtualization.md#virtualization
 ## Download YouTube Videos easily 
 https://github.com/Purple-Jack/tech-stuff/blob/main/YT%20DL%20DLP.md#yt-dlp
