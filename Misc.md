@@ -12,4 +12,6 @@
 
 **Computer terms, dictionary, and glossary** [Free computer terms, dictionary, and glossary](https://www.computerhope.com/jargon.htm "https://www.computerhope.com/jargon.htm")
 
-[Why Isn't This Site Loading for Me?](https://www.lifewire.com/is-website-down-3482172)
+If a site isn't loading try :[Why Isn't This Site Loading for Me?](https://www.lifewire.com/is-website-down-3482172)
+
+Cool collection of guides and tools: https://leafguides.xyz/
