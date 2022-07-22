@@ -16,3 +16,4 @@ Also, avoid extensions unless they are trustworthy like ublock origin. Just look
 These extensions do a cool job of removing paywalls and also not messing up with the original layout of the website.
 
 Check out Privacy tools io 's  suggestions 
+https://www.privacytools.io/#browser-addons
