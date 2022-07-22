@@ -43,5 +43,4 @@ a number of individuals online who deal with online privacy and security are sel
 **Why E-mail Should Always be Considered Insecure** https://www.jdfoxmicro.com/resource-center/articles/email-is-insecure/ 
 
 **Security Advice written from a leftist perspective** 
-
-pdf link
+[pdf link](https://github.com/Purple-Jack/tech-stuff/blob/main/Security_Advice_v6.pdf)
