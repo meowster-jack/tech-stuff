@@ -64,3 +64,5 @@ https://github.com/Purple-Jack/tech-stuff/blob/main/rss.md#really-simple-syndica
 https://github.com/Purple-Jack/tech-stuff/blob/main/youtube%20alternatives%20and%20tips.md#youtube-alternatives-and-tips
 ## Browser Extensions 
 https://github.com/Purple-Jack/tech-stuff/blob/main/browser%20extensions.md#browser-extensions
+## Miscellaneous Guides & Tutorials
+https://github.com/Purple-Jack/tech-stuff/blob/main/Miscellaneous%20Guides%20%26%20Tutorials.md#miscellaneous-guides--tutorials
