@@ -3,11 +3,11 @@ Tech tips &amp; suggestions
 
 Main Navigation: (You can also navigate within this page using the the table of contents icon next to readme and also do the same in the below pages)
 
-# App recommendations
+## App recommendations
 https://github.com/Purple-Jack/tech-stuff/blob/main/App%20recommendations.md#app-recommendations
-# Backing Up Data 
+## Backing Up Data 
 https://github.com/Purple-Jack/tech-stuff/blob/main/Backing%20up%20data.md#backing-up-data
-# Bypass Paywalls
+## Bypass Paywalls
 https://github.com/Purple-Jack/tech-stuff/blob/main/Bypass%20paywalls.md#bypass-paywalls
 # Command Line Interface 
 https://github.com/Purple-Jack/tech-stuff/blob/main/CLI%20Command%20line%20interface%20tips.md#cli-command-line-interface-tips
