@@ -1,6 +1,14 @@
 # tech-stuff
 Tech tips &amp; suggestions 
 
+```foss``` is free and open source
+
+instead of youtube links I've shared invidious links try out other invidious instances if the one I shared doesn't work
+
+Check web archive is any website is down.
+
+The internet is a wonderful resource if you need something or come across a problem there is a high likelihood that you might find what you are looking for albeit you need to know where and what exactly to look for and also we assume the solution already exists on the net (or exists at all). If you come across a problem look it up. This compilation is intended to make things easier for others.
+
 Main Navigation: (You can also navigate within this page using the the table of contents icon next to readme and also do the same in the below pages)
 
 ## App recommendations
