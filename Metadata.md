@@ -1,6 +1,6 @@
 # Metadata
 
-**Remove Metadata** `foss` Metadata is data about data such as if you take a photo the location of the photo will be stored and if you share it that metadata will also be shared [[https://exifcleaner.com/](https://exifcleaner.com/) ]([https://exifcleaner.com/](https://exifcleaner.com/) "https://exifcleaner.com/")
+**Remove Metadata** `foss` Metadata is data about data such as if you take a photo the location of the photo will be stored and if you share it that metadata will also be shared https://exifcleaner.com/ 
 
 [https://www.photometadata.org/](https://www.photometadata.org/ "https://www.photometadata.org/") 
 
