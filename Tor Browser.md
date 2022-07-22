@@ -18,4 +18,3 @@ more stuff:
 
 [Difference between Tor and VPN - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-tor-and-vpn/ "https://www.geeksforgeeks.org/difference-between-tor-and-vpn/")
 
-2. 
