@@ -17,3 +17,6 @@ https://archive.org/details/GuerillaOpenAccessManifesto Guerilla Open Access Man
 If a site isn't loading try :[Why Isn't This Site Loading for Me?](https://www.lifewire.com/is-website-down-3482172)
 
 Cool collection of guides and tools: https://leafguides.xyz/
+
+Signal is kinda sus
+https://github.com/dessalines/essays/blob/master/why_not_signal.md#why-not-signal
