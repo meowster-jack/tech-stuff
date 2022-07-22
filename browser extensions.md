@@ -6,8 +6,8 @@
 
 [GitHub - qnoum/bypass-paywalls-chrome-clean-magnolia1234: Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234#readme "https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234#readme") `foss` 
 
-since these extensions can read data its better to use these on a separate browser rather than main one 
-instructions on how to set up extension are mentioned they are quite simple
+since these extensions can read data its better to use them on a separate browser rather than main one 
+instructions on how to set up extension are mentioned & they are quite simple
 
 [https://ublockorigin.com/](https://ublockorigin.com/ "https://ublockorigin.com/") must use **Adblock** on browsers `foss` Ublock origin is recommended by many Privacy advocates. 
 
