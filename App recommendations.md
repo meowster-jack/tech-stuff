@@ -33,13 +33,7 @@ Win Rar can also be used as it is free( the "trial version" is permanent actuall
 
 add tutorials multiple etc **How to Compress Large Files** [6 Ways to Compress Large Files - wikiHow](https://www.wikihow.com/Compress-Large-Files "https://www.wikihow.com/Compress-Large-Files")
 
-Check out lists 
 
-Tor link  
-
-those lists 
-
-metatada exif link
 
 ## Android
 
@@ -74,13 +68,17 @@ PDF Arranger: [GitHub - pdfarranger/pdfarranger: Small python-gtk application, w
 
 **Torrenting** [https://www.qbittorrent.org/](https://www.qbittorrent.org/ "https://www.qbittorrent.org/") `foss` [
 
-What is a Torrent? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-a-torrent/ "https://www.geeksforgeeks.org/what-is-a-torrent/") 
+What is a Torrent? https://www.geeksforgeeks.org/what-is-a-torrent
 
 https://transmissionbt.com/ 
 
 https://www.deluge-torrent.org/
 
+
+
 FOSS **Scanner** [https://www.naps2.com/](https://www.naps2.com/ "https://www.naps2.com/") 
+
+
 
 Use **invidious instances** on PC instead of youtube [https://invidious.io/](https://invidious.io/ "https://invidious.io/") [Frequently Asked Questions - Invidious Documentation](https://docs.invidious.io/faq/ "https://docs.invidious.io/faq/") [Invidious Instances - Invidious Documentation](https://docs.invidious.io/instances/ "https://docs.invidious.io/instances/") `foss` 
 
@@ -95,7 +93,11 @@ youtube music doesn't allow you to disable video playback but you can listen onl
 
 Also, check out Newpipe on Android and YT DLP and ffmpeg. 
 
+
+
 Everything **search**- better than windows search `closed source | free to use` [https://www.voidtools.com/](https://www.voidtools.com/ "https://www.voidtools.com/")
+
+
 
 **VLC Media Player** a FOSS media player can play almost any audio or video file. This is one of the FOSS apps that are better than their proprietary counterparts. https://www.videolan.org/vlc/ some other features: [11 VLC Tricks &amp; Hidden Features You Must Know](https://fossbytes.com/vlc-tricks-vlc-hidden-features/ "https://fossbytes.com/vlc-tricks-vlc-hidden-features/") this is an arsenal of features lmao it can do so many things 
 
@@ -105,10 +107,19 @@ Everything **search**- better than windows search `closed source | free to use` 
 
 VLC can do a huge amount of things just to name something from the top of my head it can extract image frames from videos.
 
+
+
 A wise man once said that people can freely watch movies on streemio with torrentio addon.
-
 https://www.stremio.com/ 
-
 [stremio-addons-list/README.md at main · danamag/stremio-addons-list · GitHub](https://github.com/danamag/stremio-addons-list/blob/main/README.md)
 
+
 [GitHub - ericyd/gdrive-copy: Web app to copy a Google Drive folder](https://github.com/ericyd/gdrive-copy#readme) 
+
+[Check out lists ](https://github.com/Purple-Jack/tech-stuff/blob/main/Lists%20of%20Apps%20and%20Compilations.md#lists-of-apps-a nd-compilations)
+
+How to use Tor: https://github.com/Purple-Jack/tech-stuff/blob/main/Tor%20Browser.md#tor-browser
+
+Metadata removal apps: https://github.com/Purple-Jack/tech-stuff/blob/main/Metadata.md#metadata
+
+
