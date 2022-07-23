@@ -14,7 +14,11 @@ https://docs.google.com/document/d/1D16FYU0lFqE4c80JnmExI3Hb6e661L5us-qFiVC-1dY/
 
 [GitHub - Awesome-Windows/Awesome: 🎉 An awesome &amp; curated list of best applications and tools for Windows.](https://github.com/Awesome-Windows/Awesome#readme "https://github.com/Awesome-Windows/Awesome#readme") (mixed bag some recommendations aren't good) foss software is marked with a green symbol also contains some useful non-foss apps.
 
-Some Free (some are also open source)alternatives to paid software https://www.reddit.com/r/YouShouldKnow/comments/9d5gz9/ysk_there_are_many_free_or_even_opensource_tools/ 
+Some Free (some are also open source)alternatives to paid software https://www.reddit.com/r/YouShouldKnow/comments/9d5gz9/ysk_there_are_many_free_or_even_opensource_tools/  
+
+
+Awesome Open Source Alternatives
+https://github.com/diegoleme/awesome-open-source-alternatives#readme
 
 some alternatives to adobe products (has some non-foss apps too) colour coded [xdaniel-art-adobe-alt — ImgBB](https://ibb.co/yWJ7nJ2 "https://ibb.co/yWJ7nJ2") 
 
