@@ -27,3 +27,5 @@ Read official documentation they are your friend! they will guide you through th
 for eg: [cd | Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) 
 
 check this out: https://github.com/Purple-Jack/tech-stuff/blob/main/Linux.md#linux
+
+https://pandoc.org/getting-started.html 
