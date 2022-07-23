@@ -3,7 +3,7 @@ Tech tips &amp; suggestions
 
 1. ```foss``` is free and open source. Most suggestions are open-source but not all and not all closed source apps are marked as closed source. Why? because I'm lazy.
 2. instead of youtube links I've shared invidious links try out other invidious instances if the one I shared doesn't work.
-3. Check web archive is any website is down.
+3. Check web archive is any website is down but avoid downloading old un-updated software though.
 5. The internet is a wonderful resource if you need something or come across a problem there is a high likelihood that you might find what you are looking for albeit you need to know where and what exactly to look for and also we assume the solution already exists on the net (or exists at all). If you come across a problem look it up. This compilation is intended to make things easier for others and share what I have learnt.
 6. To Return to this page. Either click back on your browser or click on tech-stuff in blue and scroll down.
 
