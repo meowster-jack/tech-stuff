@@ -28,4 +28,5 @@ for eg: [cd | Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/ad
 
 check this out: https://github.com/Purple-Jack/tech-stuff/blob/main/Linux.md#linux
 
+This guide actually is not specifically for CL but for a CLI app but it shows how to do some stuff
 https://pandoc.org/getting-started.html 
