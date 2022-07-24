@@ -31,8 +31,8 @@ or
 
 Win Rar can also be used as it is free( the "trial version" is permanent actually) but it is a proprietary app and not open source [WinRAR download free and support: WinRAR](https://www.win-rar.com/start.html?&L=0) 
 
-add tutorials multiple etc **How to Compress Large Files** [6 Ways to Compress Large Files - wikiHow](https://www.wikihow.com/Compress-Large-Files "https://www.wikihow.com/Compress-Large-Files")
-
+ **How to Compress Large Files** [6 Ways to Compress Large Files - wikiHow](https://www.wikihow.com/Compress-Large-Files "https://www.wikihow.com/Compress-Large-Files")
+(https://www.linglom.com/it-support/how-to-split-a-large-file-using-7-zip/)  
 
 
 ## Android
