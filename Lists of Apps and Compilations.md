@@ -36,4 +36,4 @@ Overview of alternative open source front-ends for popular internet platforms [G
 
 Some Google alternatives (mixed bag) [GitHub - tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle#index "https://github.com/tycrek/degoogle#index") [Reddit - Dive into anything](https://www.reddit.com/r/privacy/wiki/de-google "https://www.reddit.com/r/privacy/wiki/de-google")
 
-More Google alternatives https://www.reddit.com/r/degoogle/wiki/index/
+More Google alternatives [Degoogle](https://www.reddit.com/r/degoogle/wiki/index/)
