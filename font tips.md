@@ -7,7 +7,7 @@ for pdfs: open pdf on adobe acrobat click on files->properties->fonts
 
 To download fonts: https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/ most fonts are freely available for download. 
 
-some sites: (these five got a green signal from virus total) 
+some sites: (these six got a green signal from virus total) 
 [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/ "https://www.fontsquirrel.com/") 
 
 [https://www.dafont.com/](https://www.dafont.com/ "https://www.dafont.com/") 
