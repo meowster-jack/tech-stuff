@@ -7,7 +7,8 @@ for pdfs: open pdf on adobe acrobat click on files->properties->fonts
 
 To download fonts: https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/ most fonts are freely available for download. 
 
-some sites: (these five got a green signal from virus total) [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/ "https://www.fontsquirrel.com/") 
+some sites: (these five got a green signal from virus total) 
+[https://www.fontsquirrel.com/](https://www.fontsquirrel.com/ "https://www.fontsquirrel.com/") 
 
 [https://www.dafont.com/](https://www.dafont.com/ "https://www.dafont.com/") 
 
@@ -16,5 +17,7 @@ some sites: (these five got a green signal from virus total) [https://www.fontsq
 [https://www.1001fonts.com/](https://www.1001fonts.com/ "https://www.1001fonts.com/") 
 
 [https://fonts.google.com/](https://fonts.google.com/ "https://fonts.google.com/") 
+
+[https://www.nerdfonts.com/font-downloads](https://www.nerdfonts.com/font-downloads "https://www.nerdfonts.com/font-downloads")
 
 .otf and .ttf are font files sometimes you will get a zip file which you have to unzip. Avoid installing anything that is not these 2 formats. https://fonts.adobe.com/fonts Adobe makes some really cool fonts. You can browse fonts in this website note down their names and download them from other websites ;)
