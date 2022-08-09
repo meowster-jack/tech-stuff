@@ -16,5 +16,7 @@ more stuff:
 
 [Tor vs VPN | Which one should you use for privacy, anonymity and security - YouTube](https://youtu.be/6ohvf03NiIA "https://youtu.be/6ohvf03NiIA") 
 
+https://youtu.be/gTS17WzsZz8
+
 [Difference between Tor and VPN - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-tor-and-vpn/ "https://www.geeksforgeeks.org/difference-between-tor-and-vpn/")
 
