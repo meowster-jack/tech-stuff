@@ -9,5 +9,6 @@
 https://ffmpeg.org/documentation.html
 
 
-
+ffmpeg is fast. I mean really fast unlike many other websites and GUI apps.
+ 
 UNDER CONSTRUCTION
