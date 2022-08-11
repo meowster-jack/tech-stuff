@@ -10,7 +10,7 @@ under construction
 
 Many offline youtube video downloaders are both freemium and not open source which means we cannot be sure about what they actually do open source projects on the other hand can be verified because their code is open however not all open source projects are good.
 
-Ads are a major problem too but in addition to these three things there is one more thing great about YT DLP- speed. The same is true for ffmpeg it is lighting fast and do things within seconds unlike websites that take up minutes. 
+Ads are a major problem too but in addition to these three things there is one more thing great about YT DLP- speed. The same is true for ffmpeg which is lightning fast. 
 
 It is highly recommended that you also install ffmpeg to use some functionalities of yt dlp 
 see https://github.com/Purple-Jack/tech-stuff/edit/main/ffmpeg%20tips.md 
