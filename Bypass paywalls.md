@@ -2,7 +2,7 @@
 
 to **bypass paywalls** these can be used to read news etc that are hidden behind
 
-1. Use [https://12ft.io/](https://12ft.io/ "https://12ft.io/")
+1. Use [https://12ft.io/](https://12ft.io/ "https://12ft.io/") or https://www.removepaywall.com/ 
 
 2. Search the name of the article on the web and some other website probably might have uploaded it.
 
