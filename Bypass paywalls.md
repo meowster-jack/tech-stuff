@@ -10,3 +10,5 @@ to **bypass paywalls** these can be used to read news etc that are hidden behind
    if you don't want to manually bypass paywall every time:
 
 4. Or use browser extensions that bypass paywalls https://github.com/Purple-Jack/tech-stuff/blob/main/browser%20extensions.md#browser-extensions
+
+5. Check out the webpage's archives in web archive, archive.is or ghostarchive they usually archive the full page. 
