@@ -2,7 +2,7 @@
 
 https://www.reddit.com/r/Piracy/wiki/megathread 
 
-https://www.reddit.com/r/piracy/wiki/guides to get MS Office to go the mega thread and then click on tools. Not only MS Office but also Win 10 and other stuff. Can learn a lot from here. ( ͡° ͜ʖ ͡°)
+https://www.reddit.com/r/piracy/wiki/guides 
 
 mirror: the links are archived so use internet archive in case the original gets taken down 
 
