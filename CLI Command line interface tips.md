@@ -26,6 +26,13 @@ Read official documentation they are your friend! they will guide you through th
 
 for eg: [cd | Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) 
 
+ctrl + insert 
+right click to paste 
+cd tab
+
+look up navigation in command line
+
+
 check this out: https://github.com/Purple-Jack/tech-stuff/blob/main/Linux.md#linux
 
 This guide actually is not specifically for CL but for a CLI app but it shows how to do some stuff
